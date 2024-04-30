@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ContosoUniversity.API",
+    "\\src\\ContosoUniversity.API\\Connected Services",
+    "\\src\\ContosoUniversity.API\\Connected Services\\Application Insights",
+    "\\src\\ContosoUniversity.API\\Controllers",
+    "\\src\\ContosoUniversity.API\\Data",
+    "\\src\\ContosoUniversity.API\\DTO",
+    "\\src\\ContosoUniversity.API\\Models",
+    "\\src\\ContosoUniversity.API\\Properties",
+    "\\src\\ContosoUniversity.API\\ViewModels"
+  ],
+  "PreviewInSolutionExplorer": false
+}
